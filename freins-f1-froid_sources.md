@@ -1,0 +1,8 @@
+# Les freins de F1 trop froids
+
+## Sources
+
+* Disques carbone de F1 jusqu'à environ 1 000 °C (pics jusqu'à 1 200 °C sur les circuits les plus durs) : [Brembo via The Brake Report](https://thebrakereport.com/brembo-advantages-in-upcoming-f1-race-in-miami/), [Brembo, saison 2020](https://www.bremboparts.com/europe/en/news/all-the-latest-news-from-brembo-for-the-f1-season-194986), [Autosport](https://www.autosport.com/f1/news/the-ultra-light-material-behind-a-remarkable-f1-attribute/10432823/).
+* Le carbone ne freine bien qu'une fois chaud ; mordant maximal vers 500 à 600 °C, moins bon trop froid ou trop chaud : [Motorsport Magazine](https://www.motorsportmagazine.com/articles/single-seaters/f1/why-f1-cars-struggle-to-race-in-the-cold-las-vegas-grand-prix-challenge), [MotoGP](https://www.motogp.com/en/news/2017/03/13/why-do-motogp-bikes-use-carbon-brakes/1020533).
+* Las Vegas : course de nuit en novembre, longues lignes droites, risque d'arriver au gros freinage avec des freins froids ; écopes réduites, mais trop peu de refroidissement fait surchauffer ailleurs sur le tour : [Formula 1](https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-las-vegas-grand-prix.7yJLDDlVCuKALLnoYrpgrb), [Red Bull](https://redbull.com/int-en/las-vegas-grand-prix-cold-weather), [Autosport](https://www.autosport.com/f1/news/las-vegas-grand-prix-weather-forecast-how-cold-will-it-be-for-the-f1-race/10546744/).
+* La jauge est schématique : la zone verte illustre la plage de travail, sans valeurs exactes de constructeur ; plus de 300 km/h en bout de ligne droite à Las Vegas (vitesses de pointe de l'ordre de 340 km/h).
