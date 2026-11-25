@@ -4,3 +4,4 @@
 * Âge d'Antonelli (né le 25 août 2006) : https://www.espn.com/f1/story/_/id/49535255/who-kimi-antonelli-mercedes-age-career-salary-f1-records
 * Groupe propulseur 2026 (≈ 400 kW thermique, 350 kW électrique, récupération au freinage) : https://www.formula1.com/en/latest/article/explained-2026-power-unit-regulations-fia.68izKQ2tn1voQPWvgLVMXN ; https://www.motorsportmagazine.com/articles/single-seaters/f1/all-the-key-aspects-changing-on-f1s-2026-engines
 * Spa 2026 : la radio de Russell (0 % de batterie en haut du Raidillon), la réponse de Toto Wolff, la victoire d'Antonelli : https://www.espn.com/f1/story/_/id/49313922 ; https://www.ksl.com/article/51599485/george-russell-out-of-belgian-grand-prix-in-a-heavy-blow-to-his-f1-title-chances ; https://www.cp24.com/news/sports/2026/07/19/mercedes-responds-after-george-russell-fumes-at-car-loss-of-speed-in-f1/
+* Photos des pilotes : fournies par Pyers le 25 novembre 2026 (droits non vérifiés, à ses risques).
