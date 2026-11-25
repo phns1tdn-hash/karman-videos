@@ -1,0 +1,6 @@
+# Sources : Russell, la Mercedes championne et 138 points de retard
+
+* Classement après le Grand Prix de Las Vegas 2026 (Antonelli 402, Verstappen 304, Hamilton 267, Russell 264) : https://www.racefans.net/2026/11/22/2026-las-vegas-grand-prix-race-result-and-championship-points/ ; https://grandepremio.com/en/f1/f1-2026-standings-after-las-vegas-verstappen-wins-as-hamilton-overtakes-russell-for-third/
+* Âge d'Antonelli (né le 25 août 2006) : https://www.espn.com/f1/story/_/id/49535255/who-kimi-antonelli-mercedes-age-career-salary-f1-records
+* Groupe propulseur 2026 (≈ 400 kW thermique, 350 kW électrique, récupération au freinage) : https://www.formula1.com/en/latest/article/explained-2026-power-unit-regulations-fia.68izKQ2tn1voQPWvgLVMXN ; https://www.motorsportmagazine.com/articles/single-seaters/f1/all-the-key-aspects-changing-on-f1s-2026-engines
+* Spa 2026 : la radio de Russell (0 % de batterie en haut du Raidillon), la réponse de Toto Wolff, la victoire d'Antonelli : https://www.espn.com/f1/story/_/id/49313922 ; https://www.ksl.com/article/51599485/george-russell-out-of-belgian-grand-prix-in-a-heavy-blow-to-his-f1-title-chances ; https://www.cp24.com/news/sports/2026/07/19/mercedes-responds-after-george-russell-fumes-at-car-loss-of-speed-in-f1/
