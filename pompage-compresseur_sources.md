@@ -1,0 +1,5 @@
+# Sources : Le pompage du compresseur
+
+* Pompage : perte du contrôle de l'écoulement dans le compresseur, l'air repart vers l'avant du moteur ; détonations et flammes à l'entrée d'air et à l'arrière : SKYbrary, Compressor Stall : https://skybrary.aero/articles/compressor-stall ; FAA, Turbofan Engine Malfunction Recognition and Response, rapport final : https://www.faa.gov/sites/faa.gov/files/aircraft/air_cert/design_approvals/engine_prop/engine_malf_report.pdf
+* Les aubes sont des profils aérodynamiques qui décrochent quand l'incidence est trop forte ; ligne de pompage de la carte du compresseur ; causes (accélération brusque, distorsion à l'entrée d'air par vent de travers ou forte incidence, ingestion d'oiseau) ; vannes de décharge, aubes de stator à calage variable, programme d'accélération du dosage carburant : https://en.wikipedia.org/wiki/Compressor_stall
+* Bruit et détonations d'un pompage sur un CFM56-7B, cas réel : ATSB, rapport AO-2009-053 : https://www.atsb.gov.au/sites/default/files/investigation-reports/ao-2009-053.pdf
