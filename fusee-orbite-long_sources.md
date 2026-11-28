@@ -16,3 +16,4 @@
 * Barge plutôt que retour au pas de tir (carburant gardé pour la charge) : CS Monitor : https://csmonitor.com/Science/2016/0119/Why-does-SpaceX-keep-trying-to-land-rockets-on-floating-barges ; https://en.wikipedia.org/wiki/Autonomous_spaceport_drone_ship
 * Vitesse de libération 11,2 km/s : https://fr.wikipedia.org/wiki/Vitesse_de_lib%C3%A9ration
 * Calculs : énergie pour monter un kilo à 400 km (GM × (1/R − 1/(R+h)) ≈ 3,7 MJ) et pour l'amener à 7,8 km/s (≈ 30 MJ) ; Paris-New York 5 837 km à 28 000 km/h ≈ 12,5 min ; carburant brûlé 395,7 t en environ 147 s.
+* Premier étage du Falcon 9 : 41,2 m sans l'inter-étage, 47,7 m avec : https://www.wevolver.com/specs/falcon-9-v12-or-full-thrust-block-5 ; https://en.wikipedia.org/wiki/Falcon_9_Full_Thrust
